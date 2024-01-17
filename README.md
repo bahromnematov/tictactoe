@@ -1,7 +1,7 @@
 # tictactoe
 
   Pages:
-  SplashPage\n
+  SplashPage
   HomePage
 
 ![img.png](img.png)
